@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08184a53-b35a-440a-9995-b22d432eff49" name="Changes" comment="- Se añade un cliente rest" />
+    <list default="true" id="08184a53-b35a-440a-9995-b22d432eff49" name="Changes" comment="- Se añade un cliente rest">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +205,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676110192492</updated>
-      <workItem from="1676110193545" duration="5786000" />
+      <workItem from="1676110193545" duration="6419000" />
+      <workItem from="1676220493507" duration="71000" />
+      <workItem from="1676222346701" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="- Se añade un cliente rest">
       <created>1676115930644</created>
